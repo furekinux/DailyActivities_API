@@ -10,22 +10,22 @@
 
 <h3>Modelo E-R</h3>
 <p></p>
-<p align="center"><img src="" width=60%/></p>
+<p align="center"><img src="./media/ERM.png" width=90%/></p>
 
 <h3>Normalización</h3>
 <p></p>
 
 <h4>1FN</h4>
 <p></p>
-<p align="center"><img src="" width=60%/></p>
+<p align="center"><img src="./media/1FN.svg" width=90%/></p>
 
 <h4>2FN</h4>
 <p></p>
-<p align="center"><img src="" width=60%/></p>
+<p align="center"><img src="./media/2FN.svg" width=90%/></p>
 
 <h4>3FN</h4>
 <p></p>
-<p align="center"><img src="" width=60%/></p>
+<p align="center"><img src="./media/3FN.svg" width=90%/></p>
 
 <h3>Modelo Físico</h3>
 <p></p>
